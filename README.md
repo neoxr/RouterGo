@@ -1,4 +1,4 @@
-# Go-Router
+# RouterGo
 Simple PHP Router &amp; No Need Composer
 
 ## Config for .htaccess
